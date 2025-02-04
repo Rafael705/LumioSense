@@ -8,7 +8,5 @@
 - Hardware: LED, resistores
 - Alimentação: Fonte de 5V
 
-<h2 align= 'center'> Inspiração </h2>
-file:///C:/Users/Samsung/Downloads/How%20to%20controll%20LED%20Using%20Python,Mediapipe%20&%20Arduino%20%EF%BD%9C%20OpenCV%20Python%20l%20KNOWLEDGE%20DOCTOR%20%EF%BD%9C%20Mishu%20Dhar.mp4
 
 
